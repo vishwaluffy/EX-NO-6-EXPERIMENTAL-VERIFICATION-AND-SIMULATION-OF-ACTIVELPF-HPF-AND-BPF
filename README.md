@@ -50,9 +50,9 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## DESIGN
 
-![WhatsApp Image 2025-12-04 at 10 44 52_341225f1](https://github.com/user-attachments/assets/38225b42-ec2a-49f2-852f-bae3e7d5f1fe)
-![WhatsApp Image 2025-12-04 at 10 45 11_55314e9b](https://github.com/user-attachments/assets/f0d07704-c913-4f56-a5a5-0d28c7c20b7c)
-![WhatsApp Image 2025-12-04 at 10 45 19_1485b8ee](https://github.com/user-attachments/assets/30fa3c00-29ee-4486-bdd8-f0f6fc911b71)
+![WhatsApp Image 2025-12-04 at 11 06 54_7fe98a51](https://github.com/user-attachments/assets/0803ef82-48ed-4077-952c-ca4f57d55f02)
+![WhatsApp Image 2025-12-04 at 11 07 11_85148005](https://github.com/user-attachments/assets/07edafa3-39cc-4954-a4a6-a3680f624e64)
+![WhatsApp Image 2025-12-04 at 11 07 17_834ac31f](https://github.com/user-attachments/assets/8f7df28c-641b-417e-ad5a-509e625cdf74)
 
 
 ## PROCEDURE
