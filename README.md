@@ -50,17 +50,9 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## DESIGN
 
-Given: fH = 1 KHz = 1/ (2πRC) Let C = 0.1 µF, R = 1.6 KΩ
-For n = 2, α (damping factor) = 1.414, Passband gain = Ao = 3 - α =3 – 1.414 = 1.586.
-Transfer function of second order butterworth LPF as:
-1.586
- 
-H(s) =
- 
-S2 + 1.414 s + 1
- 
-Now	Ao = 1 + (Rf / R1) = 1.586 = 1 + 0.586
-Let Ri = 10 KΩ, then Rf = 5.86 KΩ
+![WhatsApp Image 2025-12-04 at 10 44 52_341225f1](https://github.com/user-attachments/assets/38225b42-ec2a-49f2-852f-bae3e7d5f1fe)
+![WhatsApp Image 2025-12-04 at 10 45 11_55314e9b](https://github.com/user-attachments/assets/f0d07704-c913-4f56-a5a5-0d28c7c20b7c)
+![WhatsApp Image 2025-12-04 at 10 45 19_1485b8ee](https://github.com/user-attachments/assets/30fa3c00-29ee-4486-bdd8-f0f6fc911b71)
 
 
 ## PROCEDURE
