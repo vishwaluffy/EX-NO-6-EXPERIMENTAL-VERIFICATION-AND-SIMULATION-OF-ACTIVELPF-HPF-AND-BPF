@@ -1,4 +1,3 @@
-
 ## 6 DESIGN OF ACTIVE LOW PASS, HIGH PASS AND BAND PASS FILTERS USING OP-AMP
             
 **DATE:**  
@@ -41,6 +40,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ---
 ## CIRCUIT DIAGRAM
 ![WhatsApp Image 2025-11-30 at 17 15 29_c77d3900](https://github.com/user-attachments/assets/760ac1e7-b404-434d-90b5-f2b7a100b02f)
+<img width="707" height="428" alt="image" src="https://github.com/user-attachments/assets/3403349e-3c31-4336-899c-caf3ce285fc1" />
 
 
 ## MODEL GRAPH
@@ -75,6 +75,7 @@ PROCEDURE - (LPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-30 at 17 16 14_158bed1b](https://github.com/user-attachments/assets/772bd672-b3f0-4a84-8ed0-d26f78719d6d)
+<img width="696" height="419" alt="Screenshot 2025-12-05 111113" src="https://github.com/user-attachments/assets/c6be5765-e951-4144-9999-48c6718cb007" />
 
 ---
 
@@ -103,6 +104,7 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ## CIRCUIT DIAGRAM
 
 ![WhatsApp Image 2025-11-30 at 17 17 38_3cc51f06](https://github.com/user-attachments/assets/ca2dfb5a-f0f2-4b16-811c-3ff2ade24730)
+<img width="685" height="408" alt="image" src="https://github.com/user-attachments/assets/618f3d78-0c0a-4679-9937-d0b930795212" />
 
 ## MODEL GRAPH
 
@@ -146,6 +148,7 @@ PROCEDURE - ( HPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-30 at 17 18 19_ac48f4bd](https://github.com/user-attachments/assets/f76b2d25-1da7-46c6-8a04-4048e9c0e7db)
+<img width="691" height="341" alt="image" src="https://github.com/user-attachments/assets/37ad5148-77aa-4cb4-8a1f-0b0c7416c809" />
 
 ---
 
@@ -174,6 +177,7 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 ## CIRCUIT DIAGRAM
 
 ![WhatsApp Image 2025-11-30 at 17 19 21_906d5049](https://github.com/user-attachments/assets/42c9212d-c528-4373-83e4-03d00b0e8bce)
+<img width="662" height="342" alt="image" src="https://github.com/user-attachments/assets/9dc1960b-2d8e-4eee-987e-bff7eab1bfdb" />
 
 ## MODEL GRAPH
 
@@ -220,6 +224,7 @@ PROCEDURE:BAND PASS FILTER
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-30 at 17 20 11_5d6e8ec5](https://github.com/user-attachments/assets/070383e3-2cc0-4bbc-8481-675eb822c4cb)
+<img width="677" height="297" alt="image" src="https://github.com/user-attachments/assets/e8b5104f-2372-4368-9f4a-44c1133acdfb" />
 
 ---
 ##RESULT:
